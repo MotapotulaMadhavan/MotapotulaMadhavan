@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Motapotula Madhavan</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🔭 I’m currently working on **Ecommerce project and a chatbot**
 
 - 🌱 I’m currently learning **Backend development**
@@ -14,6 +16,7 @@
 - ⚡ Fun fact: **Love Travelling, Data enthusiast, Obesession on StockMarket**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/motapotulamadhavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="motapotulamadhavan" height="30" width="40" /></a>
 <a href="https://instagram.com/madhavanshetty144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhavanshetty144" height="30" width="40" /></a>
